@@ -13,8 +13,3 @@ You may also see any lint errors in the console.
 # Made for my project 
 
 Google Maps APIs are not working properly. It will work when we pay for it. Search bar also contains Google's API so it will not work unless i buy it. But as a project for self learning I havn't used any paid APIs.
-
-## Heroku Link
-
-Check it Here :- 
-        https://travel-advisior-web.herokuapp.com/
